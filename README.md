@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ## **Tech Stack**
 + **Program Language**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -45,10 +46,12 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
 + **CI/CD**
+
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
 + **Public Cloud**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![AliCloud](https://img.shields.io/badge/AliCloud-FF6A00?logo=alibabacloud&logoColor=white)
 ![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?logo=huawei&logoColor=white)
